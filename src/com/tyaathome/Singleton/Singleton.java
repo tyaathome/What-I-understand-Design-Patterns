@@ -1,7 +1,7 @@
 package com.tyaathome.Singleton;
 
 /**
- * µ¥ÀıÄ£Ê½
+ * å•ä¾‹æ¨¡å¼
  * @author tyaathome
  *
  */

@@ -14,7 +14,7 @@ public class main {
 	}
 	
 	/**
-	 * 抽象工厂模式示例
+	 * 鎶借薄宸ュ巶妯″紡绀轰緥
 	 */
 	private static void VirtualFactoryTest() {
 		System.out.println("-----------------------VirtualFfactory-----------------");
@@ -31,7 +31,7 @@ public class main {
 	/*-------------------------------------------------------*/
 	
 	/**
-	 * 单例模式示例
+	 * 鍗曚緥妯″紡绀轰緥
 	 */
 	private static void SingletonTest() {
 		System.out.println("------------------------Singleton----------------------");

@@ -1,6 +1,6 @@
 package com.tyaathome.VirtualFactory;
 /**
- * ³éÏó¹¤³§Àà
+ * æŠ½è±¡å·¥å‚ç±»
  * @author tyaathome
  *
  */
