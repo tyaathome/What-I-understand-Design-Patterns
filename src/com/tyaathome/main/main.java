@@ -3,8 +3,8 @@ package com.tyaathome.main;
 import com.tyaathome.Singleton.Singleton;
 import com.tyaathome.VirtualFactory.FactoryA;
 import com.tyaathome.VirtualFactory.FactoryB;
-import com.tyaathome.VirtualFactory.instance;
-import com.tyaathome.VirtualFactory.interfaceFactory;
+import com.tyaathome.VirtualFactory.Product;
+import com.tyaathome.VirtualFactory.InterfaceFactory;
 
 public class main {
 
@@ -23,8 +23,8 @@ public class main {
 		System.out.println("-------------------------------------------------------");
 	}
 	
-	private static void create(interfaceFactory factory) {
-		instance a = factory.create();
+	private static void create(InterfaceFactory factory) {
+		Product a = factory.create();
 		a.doSth();
 	}
 	

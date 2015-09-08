@@ -1,5 +1,11 @@
 package com.tyaathome.VirtualFactory;
-public class FactoryA implements interfaceFactory {
+
+/**
+ * 产品A的工厂
+ * @author tyaathome
+ *
+ */
+public class FactoryA implements InterfaceFactory {
 
 	@Override
 	public A create() {

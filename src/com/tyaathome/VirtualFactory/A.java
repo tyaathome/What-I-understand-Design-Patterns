@@ -1,5 +1,11 @@
 package com.tyaathome.VirtualFactory;
-public class A implements instance {
+
+/**
+ * ²úÆ·A
+ * @author tyaathome
+ *
+ */
+public class A implements Product {
 
 	@Override
 	public void doSth() {

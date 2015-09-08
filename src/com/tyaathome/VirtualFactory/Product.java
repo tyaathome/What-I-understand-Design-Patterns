@@ -4,6 +4,6 @@ package com.tyaathome.VirtualFactory;
  * @author tyaathome
  *
  */
-public interface instance {
+public interface Product {
 	public void doSth();
 }
