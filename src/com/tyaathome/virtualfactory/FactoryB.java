@@ -1,4 +1,4 @@
-package com.tyaathome.VirtualFactory;
+package com.tyaathome.virtualfactory;
 
 /**
  * 产品B的工厂

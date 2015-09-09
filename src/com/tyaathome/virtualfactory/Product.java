@@ -1,4 +1,4 @@
-package com.tyaathome.VirtualFactory;
+package com.tyaathome.virtualfactory;
 /**
  * 抽象产品
  * @author tyaathome

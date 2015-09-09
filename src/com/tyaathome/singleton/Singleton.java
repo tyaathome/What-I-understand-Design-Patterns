@@ -1,4 +1,4 @@
-package com.tyaathome.Singleton;
+package com.tyaathome.singleton;
 
 /**
  * 单例模式

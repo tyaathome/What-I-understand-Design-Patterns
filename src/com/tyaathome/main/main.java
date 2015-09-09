@@ -1,13 +1,13 @@
 package com.tyaathome.main;
 
-import com.tyaathome.Singleton.Singleton;
-import com.tyaathome.VirtualFactory.FactoryA;
-import com.tyaathome.VirtualFactory.FactoryB;
-import com.tyaathome.VirtualFactory.InterfaceFactory;
-import com.tyaathome.VirtualFactory.Product;
 import com.tyaathome.adapter.Adapter;
 import com.tyaathome.adapter.Adapter2;
 import com.tyaathome.adapter.Adapter3;
+import com.tyaathome.singleton.Singleton;
+import com.tyaathome.virtualfactory.FactoryA;
+import com.tyaathome.virtualfactory.FactoryB;
+import com.tyaathome.virtualfactory.InterfaceFactory;
+import com.tyaathome.virtualfactory.Product;
 
 public class main {
 
